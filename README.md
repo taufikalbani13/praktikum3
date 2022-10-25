@@ -32,6 +32,6 @@
 
 11. Dengan penggunaan fungsi format(luas,’.2f’) akan menghasilkan 2 angka pecahan saja
 
-Sekian tutorial dari saya tentang program mencari luas dan keliling lingkaran 
+Sekian tutorial dari saya tentang program menghitung luas dan keliling lingkaran 
 Terima kasih
 
