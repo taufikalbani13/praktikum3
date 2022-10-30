@@ -26,11 +26,11 @@
 7. Kita memerlukan nilai jari-jari (r) yang nantinya akan kita masukan.Kita akan menggunakan fungsi input() yang nilainya di konversi ke tipe data float (bilangan riil)
 8. Ketika kita sudah mendapatkan nilai phi dan jari-jari (r) selanjutnya kita bisa menghitung luas dan keliling lingkaran sesuai dengan rumus-nya masing-masing
 9. Selanjutnya kita tampilkan hasilnya dengan fungsi print()
-10. Jika dilihat hasil luas dan keliling lingkaran mempunyai angka pecahan yang cukup banyak, untuk mengambil 2 angka pecahan saja kita akan mengunakan fungsi format() seperti berikut:
+10. Jika dilihat hasil luas dan keliling lingkaran mempunyai angka pecahan yang cukup banyak, untuk mengambil 2 angka pecahan saja kita akan menggunakan fungsi format() seperti berikut:
 
 ![Screenshot (53)](https://user-images.githubusercontent.com/115517181/197821074-8148fdf0-ecdd-4ccb-af69-54e513662ca2.png)
 
-11. Dengan penggunaan fungsi format(luas,’.2f’) akan menghasilkan 2 angka pecahan saja
+11. Dengan penggunaan fungsi format (luas,’.2f’) akan menghasilkan 2 angka pecahan saja
 
 Sekian tutorial dari saya tentang program menghitung luas dan keliling lingkaran 
 Terima kasih
